@@ -144,11 +144,8 @@ The trained model learned the following relationship:
 
 ## 🚀 How to Run the Project
 
-### Step 1: Clone Repository
 ```bash
 git clone https://github.com/PrathamRajendraPednekar/Advertising-Sales-Prediction-using-Linear-Regression.git
-
-### Step 2: Install Dependencies
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+jupyter notebook
 
